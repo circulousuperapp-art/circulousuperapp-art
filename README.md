@@ -2,75 +2,95 @@
   <img src="GitHub-Profile-Hero.png" alt="Pedro Arthur GitHub Profile">
 </p>
 
-# 💼 Professional Journey
 
-## Current Position
+💼 My Journey into Software Engineering
+Building a Real Product While Becoming a Better Engineer
 
-I'm currently working as a **Backend Software Engineer at Sankhya**, developing enterprise solutions for financial systems, payment processing and mission-critical business applications.
+I'm currently building my transition into Software Engineering by combining academic studies, continuous learning and hands-on software development.
 
-Outside my professional responsibilities, I dedicate my time to building **Circulou Super App**, an enterprise SaaS platform that allows me to explore software architecture beyond the financial domain while applying production-grade engineering practices.
+Alongside my Bachelor's degree in Information Technology Management, I'm designing and building Circulou Super App—a long-term software product where I apply modern software architecture, production-ready development practices and product engineering principles.
 
-The project represents much more than a portfolio.
+Rather than waiting for professional experience to teach me every lesson, I chose to create an environment where I could learn by solving real engineering challenges.
 
-It reflects the way I approach my career.
+Circulou became that environment.
 
-I don't wait for opportunities to appear — I actively create them.
+Every feature I design, every architectural decision I make and every technology I adopt contributes not only to the evolution of the product, but also to my own growth as a software engineer.
 
-Circulou is one of those opportunities. Instead of waiting for the "perfect project" to expand my skills, I chose to build one from the ground up, applying the same architectural standards, engineering discipline and long-term vision expected in professional software development.
+🌱 Continuous Growth
 
----
+I believe the fastest way to become a better software engineer is by building real software.
 
-# 🌱 Continuous Growth Mindset
+Outside my academic studies, I continuously invest my time in expanding both my technical knowledge and practical experience through Circulou.
 
-One principle has guided my career from the beginning:
+My current areas of focus include:
 
-**Learn. Grow. Evolve.**
+Java 21 & Spring Boot
+REST API Development
+Spring Security & JWT
+Clean Architecture & Hexagonal Architecture
+Domain-Driven Design (DDD)
+PostgreSQL
+Docker & Docker Compose
+GitHub Actions & CI/CD
+Automated Testing (JUnit, Mockito & Testcontainers)
+Software Design
+AWS Cloud Fundamentals
+Frontend Development
+Advanced Technical English
 
-Technology changes constantly, and I believe great software engineers never stop learning.
+Alongside this journey, I also have the opportunity to observe experienced software engineers working in real-world environments—from Scrum ceremonies and architectural discussions to problem-solving sessions and collaborative software development.
 
-Every new technology, architectural pattern or engineering challenge is an opportunity to become a better professional.
+Those experiences help me connect theory with professional practice, while Circulou gives me the opportunity to apply those lessons through hands-on implementation.
 
-Outside working hours, I consistently invest my time in:
+My long-term goal is to become a versatile Software Engineer, capable of contributing across the entire software development lifecycle while maintaining a strong specialization in backend engineering and software architecture.
 
-- Building and evolving Circulou Super App
-- Studying advanced backend architecture
-- Expanding my frontend development skills
-- Improving my English communication
-- Learning cloud technologies
-- Exploring distributed systems
-- Practicing software design and clean architecture
+🚀 Why Circulou?
 
-I believe that learning quickly accelerates professional growth, and continuous growth naturally leads to continuous evolution.
+Circulou has been evolving as a product since around 2018–2019.
 
-My long-term goal is to become a highly versatile **Full Stack Software Engineer**, capable of contributing across the entire software development lifecycle while maintaining a strong specialization in backend architecture.
+Like many successful software products, its story began long before the first line of code.
 
-I enjoy understanding software as a complete ecosystem—from user experience to infrastructure—because the best engineering decisions come from seeing the bigger picture.
+It started with observing a real-world problem, exploring business opportunities, validating ideas and designing user experiences capable of making everyday shopping faster, smarter and more sustainable.
 
----
+The first concepts and application flows were designed in Figma, where the product vision gradually took shape.
 
-# 🚀 Why Circulou?
+As the project evolved, business and regulatory challenges temporarily paused its development, allowing the idea to mature before being revisited with a stronger technical foundation.
 
-Circulou allows me to challenge myself beyond the financial domain and continuously explore new technologies, architectural styles and business models.
+Today, Circulou has become much more than a software project.
 
-It is my engineering laboratory for experimenting with modern software practices while building a real product with long-term vision.
+It is the place where I continuously learn, experiment and apply modern engineering practices while building a product intended to solve a real problem.
 
-Through this project I'm expanding my expertise in areas such as:
+Working on Circulou allows me to experience the complete software development lifecycle, including:
 
-- Enterprise SaaS
-- Mobility Platforms
-- Marketplace Architecture
-- Modern Frontend Development
-- Event-Driven Systems
-- Distributed Architectures
-- Cloud-Native Applications
-- Product Engineering
+Product Discovery
+Product Design
+Software Architecture
+Backend Development
+Frontend Development
+Database Design
+Automated Testing
+CI/CD
+Documentation
+Continuous Improvement
 
-Every new feature is an opportunity to learn something new.
+Throughout this journey, I'm constantly expanding my knowledge in areas such as:
 
-Every challenge is an opportunity to grow.
+Enterprise Backend Development
+Marketplace Platforms
+Mobility Solutions
+Product Engineering
+Cloud-Native Applications
+Event-Driven Architecture
+Distributed Systems
+Software Quality
+DevOps Practices
 
-Every iteration is another step in my professional evolution.
+Every new feature makes the product better.
 
-My objective is simple:
+Every architectural decision makes me a better engineer.
 
-Build software that creates value, scales sustainably and makes a positive impact on the people who use it.
+Every iteration reinforces the mindset that great software is built through continuous learning, discipline and refinement.
+
+My goal isn't simply to build software.
+
+My goal is to build products that solve real problems while continuously becoming a better Software Engineer.
